@@ -4,10 +4,6 @@ OAuth is a authorization framework that allows 3rd party app to obtain limited a
 
 RFC: https://datatracker.ietf.org/doc/html/rfc6749
 
-### Use Cases
-
-- delegate 
-
 ### Roles
 
 1. Resource Owner(typically end-user)
